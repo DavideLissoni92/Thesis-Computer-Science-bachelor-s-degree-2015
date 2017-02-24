@@ -1,6 +1,13 @@
 # Thesis-Computer-Science-bachelor-s-degree-2015
 paper, since the project has been created and used for marketing's reasons, there is no code in the repository but just the paper
 
+
+# Prefazione
+
+Sul software in questione TABNEWS SRL si riserva il “diritto d’autore”, nonché
+tutti gli altri diritti connessi al suo esercizio. TABNEWS SRL concede autoriz-
+zazione specifica inerente la stesura di tale tesi di laurea.
+
 # Introduzione
 
 Gli utenti tablet nel mondo superano il numero di 1 miliardo. Una cifra che
@@ -78,3 +85,5 @@ un prezzo decisamente competitivo.
 L’obiettivo della tesi è quello di illustrare lo sviluppo del progetto, mostrando
 inizialmente la progettazione dello stesso ed in seguito descrivendo il prototipo
 ed i risultati raggiunti.
+
+L'intera tesi è present nel repository come tabnews-unapplicazione-dispositivi .pdf
