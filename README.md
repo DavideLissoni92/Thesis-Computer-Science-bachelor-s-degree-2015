@@ -86,4 +86,4 @@ L’obiettivo della tesi è quello di illustrare lo sviluppo del progetto, mostr
 inizialmente la progettazione dello stesso ed in seguito descrivendo il prototipo
 ed i risultati raggiunti.
 
-L'intera tesi è present nel repository come tabnews-unapplicazione-dispositivi .pdf
+L'intera tesi è present nel repository come Tabnews_un_applicazione_per_dispositivi_tablet_che_unisce_pubblicita_e_informazione.pdf
